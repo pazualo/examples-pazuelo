@@ -12,10 +12,14 @@
   "author": "Tyler McGinnis",
   "license": "MIT",
   "babel": {
-    "presets": ["env", "react"]
+    "presets": [
+      "env",
+      "react"
+    ]
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "firebase-tools": "^6.2.2",
     "prop-types": "^15.6.2",
     "query-string": "^6.1.0",
     "react": "^16.0.0-alpha.5",
